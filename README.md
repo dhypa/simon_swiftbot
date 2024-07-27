@@ -7,3 +7,6 @@ Uses the BACK_LR and MIDDLE_LR LEDs under the frame to display color patterns, i
 <br/><br/>
 Implemented a highscore system for you to best your previous attempts. 
 To use, simply just run this on a SwiftBot (you probably don't have one)
+<br/><br/><br/>
+![image](https://github.com/user-attachments/assets/c614baa9-04cc-40ee-9aeb-c5f15099ad1e)
+Image Credit: Brunel University London
