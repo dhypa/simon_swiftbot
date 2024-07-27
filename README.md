@@ -1,4 +1,4 @@
-##Simon
+## Simon
 
 Simple memory game, implemented to be used on a swiftbot. <br/>
 
